@@ -8,18 +8,16 @@ A simple RESTful API for managing tasks using Node.js, Express, and MongoDB.
 ## Edit Tasks: Modify task details (title and description).
 ## Delete Tasks: Remove tasks from the database.
 
-# Tech Stack
-# Backend: Node.js with Express.js
-# Database: MongoDB (using Mongoose ORM)
-# Deployment: Local or cloud-hosted MongoDB Atlas
+## Tech Stack
+## Backend: Node.js with Express.js
+## Database: MongoDB (using Mongoose ORM)
+## Deployment: Local or cloud-hosted MongoDB Atlas
 
 
 # Installation
 ## Clone the repository:
-
 git clone <repository_url>
 cd <repository_folder>
-Install dependencies:
 
 bash
 Copy code
